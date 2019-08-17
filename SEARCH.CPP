@@ -21,11 +21,11 @@ int main()
 		}
 		if(flag==1)
 		{
-			cout<<" Element found!!!"<<endl;
+			cout<<" Element found!!!"<<"1"<<endl;
 			flag=0;
 		}
 		else
-			cout<<" Not found";
+			cout<<" Not found"<<":-1"<<endl;
 	}
 }
 
